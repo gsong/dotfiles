@@ -10,7 +10,7 @@ asttokens==2.4.1
     # via stack-data
 attrs==23.2.0
     # via flake8-bugbear
-black==24.2.0
+black==24.3.0
     # via -r requirements.in
 build==1.0.3
     # via pip-tools
